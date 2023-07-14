@@ -13,6 +13,8 @@ Why do you actually read this...
 </a>
 </p>
 
+### Languages and Tools:
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,discord,github,java,vscode,wordpress&perline=5)](https://skillicons.dev)&nbsp;
 
 ### ⚙️ My Resources & Tools:
 
